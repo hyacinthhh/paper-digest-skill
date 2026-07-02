@@ -6,6 +6,8 @@
 - 全部汇入一个带左侧导航的单页 HTML（`paper-digest/index.html`），支持 MathJax 公式渲染
 - 数据与页面分离：每篇论文的元信息、总结、全文存为独立文件，页面由脚本重建，增量收录，永不手改
 
+![paper-digest 效果截图](docs/screenshot.png)
+
 ## 效果
 
 ```
