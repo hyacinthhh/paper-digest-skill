@@ -25,13 +25,13 @@
 **个人级**（所有项目可用）：
 
 ```bash
-git clone https://github.com/<你的用户名>/paper-digest-skill.git ~/.claude/skills/paper-digest
+git clone https://github.com/hyacinthhh/paper-digest-skill.git ~/.claude/skills/paper-digest
 ```
 
 **项目级**（仅当前项目可用）：
 
 ```bash
-git clone https://github.com/<你的用户名>/paper-digest-skill.git <项目>/.claude/skills/paper-digest
+git clone https://github.com/hyacinthhh/paper-digest-skill.git <项目>/.claude/skills/paper-digest
 ```
 
 依赖：`python3`（生成页面用，macOS 自带）。读取 PDF 建议安装 poppler（`brew install poppler`），
